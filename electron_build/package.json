@@ -1,0 +1,20 @@
+{
+  "name": "Electron_with_notifications",
+  "version": "0.1.0",
+  "main": "main.js",
+  "author": "Aaron Mercier",
+  "homepage": "https://github.com/Mercieral",
+  "description": "A repository that recreates an issue where node-notifier will silently fail when using electron's ASAR archive to package applications",
+  "license": "",
+  "scripts": {
+    "start": "node ./start-electron.js"
+  },
+  "dependencies": {
+    "node-notifier": "4.6.0"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": ">=0.12.7 <4.0.0",
+    "npm": ">=2.11.3 <2.14.2"
+  }
+}

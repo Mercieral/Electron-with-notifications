@@ -1,0 +1,4 @@
+dist
+node_modules
+electron_build/npm-debug.log
+.idea/workspace.xml
