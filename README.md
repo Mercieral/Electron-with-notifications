@@ -4,6 +4,7 @@ A repository that recreates an issue where node-notifier will silently fail when
 Run the using electron prebuilt using "npm start" command from root directory (or "electron ." in the electron_build directory if installed globally)
 
 To replicate the issue,
+
 1. run "npm install" in the root directory
 2. Set the build.asar to false in the development package.json
 3. run "npm run packageMAC" in the root directory
