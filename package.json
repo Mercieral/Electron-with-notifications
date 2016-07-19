@@ -19,8 +19,7 @@
   "homepage": "https://github.com/Mercieral/Electron-with-notifications#readme",
   "devDependencies": {
     "electron-builder": "^5.12.1",
-    "electron-prebuilt": "^1.2.7",
-    "grunt": "^1.0.1"
+    "electron-prebuilt": "^1.2.7"
   },
   "build": {
     "app-category-type": "public.app-category.business",
